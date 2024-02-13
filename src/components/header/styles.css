@@ -1,0 +1,24 @@
+.wrapper {
+  background-color: rgb(36, 161, 223);
+  height: 50px;
+  display: flex;
+  justify-content: center; /* Выравниваем по горизонтали по центру */
+  align-items: center;
+  color: white;
+}
+
+.links {
+  display: flex;
+  gap: 30px;
+  /* margin-right: 700px; */
+}
+
+.cen {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btnGroup {
+  display: flex;
+  gap: 20px;
+}
